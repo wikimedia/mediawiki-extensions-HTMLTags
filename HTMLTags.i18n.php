@@ -19,3 +19,9 @@ $messages['en'] = array(
     'htmltags-notagname' => 'The attribute "tagname" must be set for this tag.',
     'htmltags-unsupportedtag' => 'The tag name "$1" is not supported for <htmltag>.',
 );
+
+$messages['qqq'] = array(
+    'htmltags-desc' => '{{desc}}',
+    'htmltags-notagname' => 'The error message if "tagname" is not set in <htmltag>.',
+    'htmltags-unsupportedtag' => 'The error message if an invalid value for "tagname" is set in <htmltag>.',
+);
