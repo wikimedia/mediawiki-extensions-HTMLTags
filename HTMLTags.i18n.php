@@ -46,6 +46,22 @@ $messages['es'] = array(
 	'htmltags-unsupportedtag' => 'El nombre de la etiqueta "$1" no es compatible con <htmltag>.</htmltag>',
 );
 
+/** French (français)
+ * @author Crochet.david
+ */
+$messages['fr'] = array(
+	'htmltags-unsupportedtag' => 'Le nom de la balise « $1 » n’est pas pris en charge pour <htmltag>.',
+);
+
+/** Japanese (日本語)
+ * @author Shirayuki
+ */
+$messages['ja'] = array(
+	'htmltags-desc' => 'あらかじめ指定した HTML タグを使用できるようにする',
+	'htmltags-notagname' => 'このタグには「tagname」属性を設定してください。',
+	'htmltags-unsupportedtag' => '<htmltag> はタグ名「$1」に対応していません。',
+);
+
 /** Macedonian (македонски)
  * @author Bjankuloski06
  */
