@@ -53,6 +53,15 @@ $messages['fr'] = array(
 	'htmltags-unsupportedtag' => 'Le nom de la balise « $1 » n’est pas pris en charge pour <htmltag>.',
 );
 
+/** Galician (galego)
+ * @author Toliño
+ */
+$messages['gl'] = array(
+	'htmltags-desc' => 'Permite mostrar etiquetas HTML desde un conxunto especificado previamente',
+	'htmltags-notagname' => 'Cómpre definir o atributo "tagname" para esta etiqueta.',
+	'htmltags-unsupportedtag' => 'O nome de etiqueta "$1" non está soportado por <htmltag>.',
+);
+
 /** Japanese (日本語)
  * @author Shirayuki
  */
