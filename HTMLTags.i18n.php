@@ -48,8 +48,11 @@ $messages['es'] = array(
 
 /** French (français)
  * @author Crochet.david
+ * @author Gomoko
  */
 $messages['fr'] = array(
+	'htmltags-desc' => "Permet l'affichage de balises HTML depuis un ensemble prédéterminé",
+	'htmltags-notagname' => 'L\'attribut "tagname" doit être positionné pour cette balise.',
 	'htmltags-unsupportedtag' => 'Le nom de la balise « $1 » n’est pas pris en charge pour <htmltag>.',
 );
 
@@ -60,6 +63,15 @@ $messages['gl'] = array(
 	'htmltags-desc' => 'Permite mostrar etiquetas HTML desde un conxunto especificado previamente',
 	'htmltags-notagname' => 'Cómpre definir o atributo "tagname" para esta etiqueta.',
 	'htmltags-unsupportedtag' => 'O nome de etiqueta "$1" non está soportado por <htmltag>.',
+);
+
+/** Italian (italiano)
+ * @author Beta16
+ */
+$messages['it'] = array(
+	'htmltags-desc' => 'Permette di visualizzare un insieme per-specificato di tag HTML',
+	'htmltags-notagname' => 'L\'attributo "tagname" deve essere impostato per questo tag.',
+	'htmltags-unsupportedtag' => 'Il tagname "$1" non è supportato da <htmltag>.',
 );
 
 /** Japanese (日本語)
