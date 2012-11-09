@@ -65,6 +65,15 @@ $messages['gl'] = array(
 	'htmltags-unsupportedtag' => 'O nome de etiqueta "$1" non está soportado por <htmltag>.',
 );
 
+/** Hebrew (עברית)
+ * @author Amire80
+ */
+$messages['he'] = array(
+	'htmltags-desc' => 'הצגת תגי HTML מתוך קבוצה שהוגדרה מראש',
+	'htmltags-notagname' => 'המאפיין "tagname" צריך להיות מוגדר עבור התג הזה.',
+	'htmltags-unsupportedtag' => 'שם התג "$1" אינו נתמך עבור <htmltag>.',
+);
+
 /** Italian (italiano)
  * @author Beta16
  */
