@@ -21,9 +21,10 @@ $messages['en'] = array(
 );
 
 /** Message documentation (Message documentation)
+ * @author Shirayuki
  */
 $messages['qqq'] = array(
-	'htmltags-desc' => '{{desc}}',
+	'htmltags-desc' => '{{desc|name=HTML Tags|url=http://www.mediawiki.org/wiki/Extension:HTML_Tags}}',
 	'htmltags-notagname' => 'The error message if "tagname" is not set in <htmltag>.',
 	'htmltags-unsupportedtag' => 'The error message if an invalid value for "tagname" is set in <htmltag>.',
 );
