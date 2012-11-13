@@ -29,6 +29,15 @@ $messages['qqq'] = array(
 	'htmltags-unsupportedtag' => 'The error message if an invalid value for "tagname" is set in <htmltag>.',
 );
 
+/** Asturian (asturianu)
+ * @author Xuacu
+ */
+$messages['ast'] = array(
+	'htmltags-desc' => 'Permite amosar etiquetes HTML dende un conxuntu predetermináu',
+	'htmltags-notagname' => 'Tien qu\'afitase l\'atributu "tagname" pa esta etiqueta.',
+	'htmltags-unsupportedtag' => 'El nome d\'etiqueta "$1" nun ye compatible con <htmltag>.',
+);
+
 /** German (Deutsch)
  * @author Metalhead64
  */
