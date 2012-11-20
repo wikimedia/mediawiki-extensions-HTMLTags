@@ -22,11 +22,12 @@ $messages['en'] = array(
 
 /** Message documentation (Message documentation)
  * @author Shirayuki
+ * @author Siebrand
  */
 $messages['qqq'] = array(
 	'htmltags-desc' => '{{desc|name=HTML Tags|url=http://www.mediawiki.org/wiki/Extension:HTML_Tags}}',
-	'htmltags-notagname' => 'The error message if "tagname" is not set in <htmltag>.',
-	'htmltags-unsupportedtag' => 'The error message if an invalid value for "tagname" is set in <htmltag>.',
+	'htmltags-notagname' => '{{doc-important|Do not translate "tagname".}} The error message if "tagname" is not set in <htmltag>.',
+	'htmltags-unsupportedtag' => '{{doc-important|Do not translate "htmltag".}} The error message if an invalid value for "tagname" is set in <htmltag>.',
 );
 
 /** Asturian (asturianu)
@@ -109,4 +110,13 @@ $messages['mk'] = array(
 	'htmltags-desc' => 'Овозможува приказ на HTML-ознаки од предодреден збир',
 	'htmltags-notagname' => 'За оваа ознака мора да се зададе атрибутот „tagname“.',
 	'htmltags-unsupportedtag' => 'Ознаката по име „$1“ не е поддржана за <htmltag>.',
+);
+
+/** Dutch (Nederlands)
+ * @author Siebrand
+ */
+$messages['nl'] = array(
+	'htmltags-desc' => 'Maakt het mogelijk om HTML-tags weer te geven van een vooraf gespecificeerde set',
+	'htmltags-notagname' => 'Het attribuut "tagname" moet opgegeven worden voor deze tag.',
+	'htmltags-unsupportedtag' => 'De tagnaam "$1" wordt niet ondersteund voor <htmltag>.',
 );
