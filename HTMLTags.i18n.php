@@ -120,3 +120,12 @@ $messages['nl'] = array(
 	'htmltags-notagname' => 'Het attribuut "tagname" moet opgegeven worden voor deze tag.',
 	'htmltags-unsupportedtag' => 'De tagnaam "$1" wordt niet ondersteund voor <htmltag>.',
 );
+
+/** Ukrainian (українська)
+ * @author Base
+ */
+$messages['uk'] = array(
+	'htmltags-desc' => 'Дозволяє відображати HTML-теґи із попердньо-визначеного набору',
+	'htmltags-notagname' => 'Атрибут «tagname» повинен бути вказаним для цього теґу.',
+	'htmltags-unsupportedtag' => "Ім'я теґу «$1» не підтримується для <htmltag>.",
+);
