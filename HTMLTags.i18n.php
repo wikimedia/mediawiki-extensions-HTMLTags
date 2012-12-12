@@ -103,6 +103,15 @@ $messages['ja'] = array(
 	'htmltags-unsupportedtag' => '<htmltag> はタグ名「$1」に対応していません。',
 );
 
+/** Korean (한국어)
+ * @author 아라
+ */
+$messages['ko'] = array(
+	'htmltags-desc' => '미리 지정한 집합에서 HTML 태그 보이기 허용',
+	'htmltags-notagname' => '이 태그에 대한 "tagname" 특성을 설정해야 합니다.',
+	'htmltags-unsupportedtag' => '<htmltag>에 대한 "$1" 태그 이름은 지원하지 않습니다.',
+);
+
 /** Macedonian (македонски)
  * @author Bjankuloski06
  */
