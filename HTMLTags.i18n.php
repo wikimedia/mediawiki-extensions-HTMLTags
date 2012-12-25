@@ -130,6 +130,15 @@ $messages['nl'] = array(
 	'htmltags-unsupportedtag' => 'De tagnaam "$1" wordt niet ondersteund voor <htmltag>.',
 );
 
+/** Piedmontese (Piemontèis)
+ * @author Dragonòt
+ */
+$messages['pms'] = array(
+	'htmltags-desc' => "A përmëtt ëd mosté dle tichëtte HTML da n'ansem pre-specificà",
+	'htmltags-notagname' => 'L\'atribù "tagname" a deuv esse ampostà për sta tichëtta.',
+	'htmltags-unsupportedtag' => 'ël nòm dla tichëtta "$1" a l\'é pa apogià për <htmltag>.',
+);
+
 /** Ukrainian (українська)
  * @author Base
  */
