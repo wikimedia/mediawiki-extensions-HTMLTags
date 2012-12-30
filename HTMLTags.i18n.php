@@ -121,6 +121,15 @@ $messages['mk'] = array(
 	'htmltags-unsupportedtag' => 'Ознаката по име „$1“ не е поддржана за <htmltag>.',
 );
 
+/** Malay (Bahasa Melayu)
+ * @author Anakmalaysia
+ */
+$messages['ms'] = array(
+	'htmltags-desc' => 'Membenarkan paparan teg HTML dari peranggu yang dipratentukan',
+	'htmltags-notagname' => 'Atribut "tagname" mesti ditetapkan untuk teg ini.',
+	'htmltags-unsupportedtag' => 'Nama teg "$1" tidak disokong untuk <htmltag>.',
+);
+
 /** Dutch (Nederlands)
  * @author Siebrand
  */
