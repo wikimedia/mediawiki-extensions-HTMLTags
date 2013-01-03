@@ -140,12 +140,13 @@ $messages['nl'] = array(
 );
 
 /** Piedmontese (Piemontèis)
+ * @author Borichèt
  * @author Dragonòt
  */
 $messages['pms'] = array(
-	'htmltags-desc' => "A përmëtt ëd mosté dle tichëtte HTML da n'ansem pre-specificà",
-	'htmltags-notagname' => 'L\'atribù "tagname" a deuv esse ampostà për sta tichëtta.',
-	'htmltags-unsupportedtag' => 'ël nòm dla tichëtta "$1" a l\'é pa apogià për <htmltag>.',
+	'htmltags-desc' => "A përmëtt la visualisassion ëd tichëtte HTML da n'ansem pre-specificà",
+	'htmltags-notagname' => 'L\'atribù "tagname" a dev esse ampostà për costa tichëtta.',
+	'htmltags-unsupportedtag' => "Ël nòm dla tichëtta «$1» a l'é pa mantnù për <htmltag>.",
 );
 
 /** Ukrainian (українська)
