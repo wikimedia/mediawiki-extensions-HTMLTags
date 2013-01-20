@@ -112,6 +112,14 @@ $messages['ko'] = array(
 	'htmltags-unsupportedtag' => '<htmltag>에 대한 "$1" 태그 이름은 지원하지 않습니다.',
 );
 
+/** Luxembourgish (Lëtzebuergesch)
+ * @author Robby
+ */
+$messages['lb'] = array(
+	'htmltags-notagname' => 'D\'Attribut "tagname" muss fir dësen Tag festgeluecht ginn.',
+	'htmltags-unsupportedtag' => 'Den Tagnumm "$1" gëtt net vun <htmltag> ënnerstëtzt.',
+);
+
 /** Macedonian (македонски)
  * @author Bjankuloski06
  */
