@@ -157,6 +157,14 @@ $messages['pms'] = array(
 	'htmltags-unsupportedtag' => "Ël nòm dla tichëtta «$1» a l'é pa mantnù për <htmltag>.",
 );
 
+/** Russian (русский)
+ * @author DCamer
+ */
+$messages['ru'] = array(
+	'htmltags-notagname' => 'Атрибут "tagname" должен быть установлен для данного тега.',
+	'htmltags-unsupportedtag' => 'Тег "$1" не поддерживается для <htmltag>.',
+);
+
 /** Ukrainian (українська)
  * @author Base
  */
