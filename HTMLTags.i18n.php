@@ -173,3 +173,12 @@ $messages['uk'] = array(
 	'htmltags-notagname' => 'Атрибут «tagname» повинен бути вказаним для цього теґу.',
 	'htmltags-unsupportedtag' => "Ім'я теґу «$1» не підтримується для <htmltag>.",
 );
+
+/** Simplified Chinese (中文（简体）‎)
+ * @author Yfdyh000
+ */
+$messages['zh-hans'] = array(
+	'htmltags-desc' => '允许显示指定的HTML标签',
+	'htmltags-notagname' => '此标签的“tagname”属性必须设置。',
+	'htmltags-unsupportedtag' => '<htmltag>不支持标签名“$1”。',
+);
