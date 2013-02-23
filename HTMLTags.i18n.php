@@ -85,6 +85,13 @@ $messages['he'] = array(
 	'htmltags-unsupportedtag' => 'שם התג "$1" אינו נתמך עבור <htmltag>.',
 );
 
+/** Upper Sorbian (hornjoserbsce)
+ * @author Michawiki
+ */
+$messages['hsb'] = array(
+	'htmltags-unsupportedtag' => 'Mjeno znački "$1" so za <htmltage> njepodpěruje.',
+);
+
 /** Italian (italiano)
  * @author Beta16
  */
