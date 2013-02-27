@@ -89,6 +89,8 @@ $messages['he'] = array(
  * @author Michawiki
  */
 $messages['hsb'] = array(
+	'htmltags-desc' => 'Zmóžnja zwobraznjenje HTML-značkow z předdefinowaneje sadźby',
+	'htmltags-notagname' => 'Atribut "tagname" dyrbi so za tutu značku stajić.',
 	'htmltags-unsupportedtag' => 'Mjeno znački "$1" so za <htmltage> njepodpěruje.',
 );
 
