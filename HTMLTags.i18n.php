@@ -166,6 +166,15 @@ $messages['pms'] = array(
 	'htmltags-unsupportedtag' => "Ël nòm dla tichëtta «$1» a l'é pa mantnù për <htmltag>.",
 );
 
+/** tarandíne (tarandíne)
+ * @author Joetaras
+ */
+$messages['roa-tara'] = array(
+	'htmltags-desc' => "Permette de visualizzà le tag HTML da 'nu 'nzieme pre specificate",
+	'htmltags-notagname' => 'L\'attribbute "tagname" adda essere \'mbostate pe stu tag.',
+	'htmltags-unsupportedtag' => '\'U nome d\'u tag "$1" non g\'è supportate pe <htmltag>.',
+);
+
 /** Russian (русский)
  * @author DCamer
  */
