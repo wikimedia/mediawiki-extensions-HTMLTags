@@ -156,6 +156,15 @@ $messages['nl'] = array(
 	'htmltags-unsupportedtag' => 'De tagnaam "$1" wordt niet ondersteund voor <htmltag>.',
 );
 
+/** Polish (polski)
+ * @author Chrumps
+ */
+$messages['pl'] = array(
+	'htmltags-desc' => 'Pozwala na wyświetlanie znaczników HTML ze wstępnie określonego zestaw',
+	'htmltags-notagname' => 'Atrybut "tagname" musi być ustawiony dla danego znacznika.',
+	'htmltags-unsupportedtag' => 'Znacznik "$1" nie jest obsługiwany dla <htmltag>.',
+);
+
 /** Piedmontese (Piemontèis)
  * @author Borichèt
  * @author Dragonòt
