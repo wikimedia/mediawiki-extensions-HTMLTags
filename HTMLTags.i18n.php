@@ -121,6 +121,15 @@ $messages['ko'] = array(
 	'htmltags-unsupportedtag' => '<htmltag>에 대한 "$1" 태그 이름은 지원하지 않습니다.',
 );
 
+/** Colognian (Ripoarisch)
+ * @author Purodha
+ */
+$messages['ksh'] = array(
+	'htmltags-desc' => 'Määd et möjjelesch, beschtemmpde HTML-Befähle en Sigge enzefööje.',
+	'htmltags-notagname' => 'De Eijeschaff <code lang="en">tagname</code> moß heh aanjejovve wääde.',
+	'htmltags-unsupportedtag' => 'Dä Befähl „$1“ es för <htmltag> nit ze bruche.',
+);
+
 /** Luxembourgish (Lëtzebuergesch)
  * @author Robby
  */
@@ -145,6 +154,14 @@ $messages['ms'] = array(
 	'htmltags-desc' => 'Membenarkan paparan teg HTML dari peranggu yang dipratentukan',
 	'htmltags-notagname' => 'Atribut "tagname" mesti ditetapkan untuk teg ini.',
 	'htmltags-unsupportedtag' => 'Nama teg "$1" tidak disokong untuk <htmltag>.',
+);
+
+/** Norwegian Bokmål (norsk bokmål)
+ */
+$messages['nb'] = array(
+	'htmltags-desc' => 'Tillater visning av HTML-tagger fra et forhåndsdefinert sett',
+	'htmltags-notagname' => 'Attributtet «tagname» må være satt for denne taggen.',
+	'htmltags-unsupportedtag' => 'Taggnavnet «$1» støttes ikke for <htmltag>.',
 );
 
 /** Dutch (Nederlands)
