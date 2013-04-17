@@ -39,6 +39,15 @@ $messages['ast'] = array(
 	'htmltags-unsupportedtag' => 'El nome d\'etiqueta "$1" nun ye compatible con <htmltag>.',
 );
 
+/** Czech (česky)
+ * @author Jezevec
+ */
+$messages['cs'] = array(
+	'htmltags-desc' => 'Umožňuje zobrazování HTML značek z předdefinované sady',
+	'htmltags-notagname' => 'Pro tuto značku musí být nastaven atribut "tagname".',
+	'htmltags-unsupportedtag' => 'Značka " $1 " není pro <htmltag> podporována.',
+);
+
 /** German (Deutsch)
  * @author Metalhead64
  */
