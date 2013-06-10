@@ -235,3 +235,12 @@ $messages['zh-hans'] = array(
 	'htmltags-notagname' => '此标签的“tagname”属性必须设置。',
 	'htmltags-unsupportedtag' => '<htmltag>不支持标签名“$1”。',
 );
+
+/** Traditional Chinese (中文（繁體）‎)
+ * @author Justincheng12345
+ */
+$messages['zh-hant'] = array(
+	'htmltags-desc' => '允許顯示指定的HTML標籤',
+	'htmltags-notagname' => '必須設置此標籤的「tagname」屬性。',
+	'htmltags-unsupportedtag' => '<htmltag>不支援標籤名稱「$1」。',
+);
