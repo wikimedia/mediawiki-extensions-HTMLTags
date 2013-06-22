@@ -218,6 +218,14 @@ $messages['ru'] = array(
 	'htmltags-unsupportedtag' => 'Тег "$1" не поддерживается для <htmltag>.',
 );
 
+/** Swedish (svenska)
+ * @author Jopparn
+ */
+$messages['sv'] = array(
+	'htmltags-notagname' => 'Attributet "tagname" måste fastställas för den här taggen.',
+	'htmltags-unsupportedtag' => 'Taggens namn "$1" stöds inte för <htmltag>.',
+);
+
 /** Ukrainian (українська)
  * @author Base
  */
