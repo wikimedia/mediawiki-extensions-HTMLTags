@@ -220,8 +220,10 @@ $messages['ru'] = array(
 
 /** Swedish (svenska)
  * @author Jopparn
+ * @author WikiPhoenix
  */
 $messages['sv'] = array(
+	'htmltags-desc' => 'Visar HTML-taggar från en förutbestämd uppsättning',
 	'htmltags-notagname' => 'Attributet "tagname" måste fastställas för den här taggen.',
 	'htmltags-unsupportedtag' => 'Taggens namn "$1" stöds inte för <htmltag>.',
 );
