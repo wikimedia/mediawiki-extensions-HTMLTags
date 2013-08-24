@@ -27,7 +27,11 @@ $messages['en'] = array(
 $messages['qqq'] = array(
 	'htmltags-desc' => '{{desc|name=HTML Tags|url=http://www.mediawiki.org/wiki/Extension:HTML_Tags}}',
 	'htmltags-notagname' => '{{doc-important|Do not translate "tagname".}} The error message if "tagname" is not set in <htmltag>.',
-	'htmltags-unsupportedtag' => '{{doc-important|Do not translate "htmltag".}} The error message if an invalid value for "tagname" is set in <htmltag>.',
+	'htmltags-unsupportedtag' => '{{doc-important|Do not translate "htmltag".}}
+The error message if an invalid value for "tagname" is set in <htmltag>.
+
+Parameters:
+* $1 - tag name',
 );
 
 /** Asturian (asturianu)
