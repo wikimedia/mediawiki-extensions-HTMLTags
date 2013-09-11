@@ -205,6 +205,15 @@ $messages['pms'] = array(
 	'htmltags-unsupportedtag' => "Ël nòm dla tichëtta «$1» a l'é pa mantnù për <htmltag>.",
 );
 
+/** Brazilian Portuguese (português do Brasil)
+ * @author Cainamarques
+ */
+$messages['pt-br'] = array(
+	'htmltags-desc' => 'Permite a exibição de etiquetas HTML a partir de um conjunto pré-determinado',
+	'htmltags-notagname' => 'O atributo "tagname" deve ser estabelecido para esta etiqueta.',
+	'htmltags-unsupportedtag' => 'O nome de etiqueta "$1" não é suportado por <htmltag>.',
+);
+
 /** tarandíne (tarandíne)
  * @author Joetaras
  */
