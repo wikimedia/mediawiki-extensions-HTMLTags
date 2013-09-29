@@ -225,8 +225,10 @@ $messages['roa-tara'] = array(
 
 /** Russian (русский)
  * @author DCamer
+ * @author Okras
  */
 $messages['ru'] = array(
+	'htmltags-desc' => 'Позволяет отображать HTML-теги из заранее заданного набора',
 	'htmltags-notagname' => 'Атрибут "tagname" должен быть установлен для данного тега.',
 	'htmltags-unsupportedtag' => 'Тег "$1" не поддерживается для <htmltag>.',
 );
