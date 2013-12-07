@@ -43,7 +43,7 @@ $messages['ast'] = array(
 	'htmltags-unsupportedtag' => 'El nome d\'etiqueta "$1" nun ye compatible con <htmltag>.',
 );
 
-/** Czech (česky)
+/** Czech (čeština)
  * @author Jezevec
  */
 $messages['cs'] = array(
