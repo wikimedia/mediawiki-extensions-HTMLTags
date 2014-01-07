@@ -70,6 +70,15 @@ $messages['es'] = array(
 	'htmltags-unsupportedtag' => 'El nombre de la etiqueta "$1" no es compatible con <htmltag>.</htmltag>',
 );
 
+/** Persian (فارسی)
+ * @author Armin1392
+ */
+$messages['fa'] = array(
+	'htmltags-desc' => 'اجازه برای نمایش برچسب‌های اچ‌تی‌ام‌ال از یک تنظیم از پیش تعیین شده',
+	'htmltags-notagname' => 'ویژگی "نام برچسب" باید برای این برچسب تنظیم شود.',
+	'htmltags-unsupportedtag' => 'نام برچسب $1 برای <htmltag> پشتیبانی نشده‌است.',
+);
+
 /** French (français)
  * @author Crochet.david
  * @author Gomoko
