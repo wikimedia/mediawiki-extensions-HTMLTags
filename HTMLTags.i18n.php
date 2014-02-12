@@ -53,10 +53,11 @@ $messages['cs'] = array(
 );
 
 /** German (Deutsch)
+ * @author Kghbln
  * @author Metalhead64
  */
 $messages['de'] = array(
-	'htmltags-desc' => 'Ergänzt für anzuzeigendes HTML Tags aus einem vorgegebenen Satz',
+	'htmltags-desc' => 'Ermöglicht die Nutzung zusätzlicher HTML-Tags',
 	'htmltags-notagname' => 'Das Attribut „tagname“ muss für dieses Tag angegeben werden.',
 	'htmltags-unsupportedtag' => 'Der Tagname „$1“ wird von <htmltag> nicht unterstützt.',
 );
