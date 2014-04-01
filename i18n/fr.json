@@ -1,0 +1,11 @@
+{
+    "@metadata": {
+        "authors": [
+            "Crochet.david",
+            "Gomoko"
+        ]
+    },
+    "htmltags-desc": "Permet l'affichage de balises HTML depuis un ensemble prédéterminé",
+    "htmltags-notagname": "L'attribut \"tagname\" doit être positionné pour cette balise.",
+    "htmltags-unsupportedtag": "Le nom de la balise « $1 » n’est pas pris en charge pour <htmltag>."
+}

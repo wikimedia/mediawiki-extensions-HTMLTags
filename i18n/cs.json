@@ -1,0 +1,10 @@
+{
+    "@metadata": {
+        "authors": [
+            "Jezevec"
+        ]
+    },
+    "htmltags-desc": "Umožňuje zobrazování HTML značek z předdefinované sady",
+    "htmltags-notagname": "Pro tuto značku musí být nastaven atribut \"tagname\".",
+    "htmltags-unsupportedtag": "Značka \" $1 \" není pro <htmltag> podporována."
+}

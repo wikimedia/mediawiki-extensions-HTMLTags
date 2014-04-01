@@ -1,0 +1,11 @@
+{
+    "@metadata": {
+        "authors": [
+            "Borichèt",
+            "Dragonòt"
+        ]
+    },
+    "htmltags-desc": "A përmëtt la visualisassion ëd tichëtte HTML da n'ansem pre-specificà",
+    "htmltags-notagname": "L'atribù \"tagname\" a dev esse ampostà për costa tichëtta.",
+    "htmltags-unsupportedtag": "Ël nòm dla tichëtta «$1» a l'é pa mantnù për <htmltag>."
+}

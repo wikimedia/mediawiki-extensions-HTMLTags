@@ -10,8 +10,6 @@
  *
  * Usage: Add the following line in LocalSettings.php:
  * require_once( "$IP/extensions/HTMLTags/HTMLTags.php" );
- *
- * @version 0.1
  */
 
 // Check environment
@@ -27,7 +25,7 @@ $wgExtensionCredits['parserhook'][] = array(
 	'path'			=> __FILE__,
 	'name'			=> 'HTML Tags',
 	'author'		=> 'Yaron Koren',
-	'version'		=> '0.1',
+	'version'		=> '0.2.0',
 	'url'			=> 'http://www.mediawiki.org/wiki/Extension:HTML_Tags',
 	'descriptionmsg'	=> 'htmltags-desc',
 );
@@ -36,6 +34,7 @@ $wgExtensionCredits['parserhook'][] = array(
 $wgHTMLTagsDir = dirname( __FILE__ ) . '/';
 
 // Internationalization
+$wgMessagesDirs['HTMLTags'] = __DIR__ . '/i18n';
 $wgExtensionMessagesFiles['HTMLTags'] = $wgHTMLTagsDir . 'HTMLTags.i18n.php';
 
 // Register classes

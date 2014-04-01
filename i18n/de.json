@@ -1,0 +1,11 @@
+{
+    "@metadata": {
+        "authors": [
+            "Kghbln",
+            "Metalhead64"
+        ]
+    },
+    "htmltags-desc": "Ermöglicht die Nutzung zusätzlicher HTML-Tags",
+    "htmltags-notagname": "Das Attribut „tagname“ muss für dieses Tag angegeben werden.",
+    "htmltags-unsupportedtag": "Der Tagname „$1“ wird von <htmltag> nicht unterstützt."
+}

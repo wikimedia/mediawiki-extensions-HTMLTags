@@ -1,0 +1,10 @@
+{
+    "@metadata": {
+        "authors": [
+            "Purodha"
+        ]
+    },
+    "htmltags-desc": "Määd et möjjelesch, beschtemmpde HTML-Befähle en Sigge enzefööje.",
+    "htmltags-notagname": "De Eijeschaff <code lang=\"en\">tagname</code> moß heh aanjejovve wääde.",
+    "htmltags-unsupportedtag": "Dä Befähl „$1“ es för <htmltag> nit ze bruche."
+}

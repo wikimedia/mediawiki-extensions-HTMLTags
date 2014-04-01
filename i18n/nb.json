@@ -1,0 +1,8 @@
+{
+    "@metadata": {
+        "authors": []
+    },
+    "htmltags-desc": "Tillater visning av HTML-tagger fra et forhåndsdefinert sett",
+    "htmltags-notagname": "Attributtet «tagname» må være satt for denne taggen.",
+    "htmltags-unsupportedtag": "Taggnavnet «$1» støttes ikke for <htmltag>."
+}

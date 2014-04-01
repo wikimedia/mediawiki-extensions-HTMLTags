@@ -1,0 +1,10 @@
+{
+    "@metadata": {
+        "authors": [
+            "Amire80"
+        ]
+    },
+    "htmltags-desc": "הצגת תגי HTML מתוך קבוצה שהוגדרה מראש",
+    "htmltags-notagname": "המאפיין \"tagname\" צריך להיות מוגדר עבור התג הזה.",
+    "htmltags-unsupportedtag": "שם התג \"$1\" אינו נתמך עבור <htmltag>."
+}

@@ -1,0 +1,9 @@
+{
+    "@metadata": {
+        "authors": [
+            "Robby"
+        ]
+    },
+    "htmltags-notagname": "D'Attribut \"tagname\" muss fir dësen Tag festgeluecht ginn.",
+    "htmltags-unsupportedtag": "Den Tagnumm \"$1\" gëtt net vun <htmltag> ënnerstëtzt."
+}

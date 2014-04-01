@@ -1,0 +1,10 @@
+{
+    "@metadata": {
+        "authors": [
+            "Shirayuki"
+        ]
+    },
+    "htmltags-desc": "あらかじめ指定した HTML タグを使用できるようにする",
+    "htmltags-notagname": "このタグには「tagname」属性を設定してください。",
+    "htmltags-unsupportedtag": "<htmltag> はタグ名「$1」に対応していません。"
+}
