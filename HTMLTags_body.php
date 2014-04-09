@@ -48,11 +48,13 @@ class HTMLTags {
 			if ( $key == 'tagname' ) { continue; }
 			if ( in_array( $key, $wgHTMLTagsAttributes[$tagName] ) ) {
 				$value = $parser->replaceVariables( $value, $frame );
-				$attributes[$key] = $value;
+				// Prevent JS injection into, for instance,
+				// the "href" attribute.
+				$attributes[$key] = htmlspecialchars( $value, ENT_QUOTES );
 			}
 		}
 
-		// The use of Html::element() should prevent any attempt
+		// The use of Html::element() should prevent any further attempt
 		// at JavaScript injection.
 		return Html::element( $tagName, $attributes, $input );
 	}
