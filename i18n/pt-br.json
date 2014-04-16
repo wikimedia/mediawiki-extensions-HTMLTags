@@ -1,10 +1,10 @@
 {
-    "@metadata": {
-        "authors": [
-            "Cainamarques"
-        ]
-    },
-    "htmltags-desc": "Permite a exibição de etiquetas HTML a partir de um conjunto pré-determinado",
-    "htmltags-notagname": "O atributo \"tagname\" deve ser estabelecido para esta etiqueta.",
-    "htmltags-unsupportedtag": "O nome de etiqueta \"$1\" não é suportado por <htmltag>."
+	"@metadata": {
+		"authors": [
+			"Cainamarques"
+		]
+	},
+	"htmltags-desc": "Permite a exibição de etiquetas HTML a partir de um conjunto pré-determinado",
+	"htmltags-notagname": "O atributo \"tagname\" deve ser estabelecido para esta etiqueta.",
+	"htmltags-unsupportedtag": "O nome de etiqueta \"$1\" não é suportado por <htmltag>."
 }

@@ -1,10 +1,10 @@
 {
-    "@metadata": {
-        "authors": [
-            "Toliño"
-        ]
-    },
-    "htmltags-desc": "Permite mostrar etiquetas HTML desde un conxunto especificado previamente",
-    "htmltags-notagname": "Cómpre definir o atributo \"tagname\" para esta etiqueta.",
-    "htmltags-unsupportedtag": "O nome de etiqueta \"$1\" non está soportado por <htmltag>."
+	"@metadata": {
+		"authors": [
+			"Toliño"
+		]
+	},
+	"htmltags-desc": "Permite mostrar etiquetas HTML desde un conxunto especificado previamente",
+	"htmltags-notagname": "Cómpre definir o atributo \"tagname\" para esta etiqueta.",
+	"htmltags-unsupportedtag": "O nome de etiqueta \"$1\" non está soportado por <htmltag>."
 }

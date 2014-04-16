@@ -1,10 +1,10 @@
 {
-    "@metadata": {
-        "authors": [
-            "Xuacu"
-        ]
-    },
-    "htmltags-desc": "Permite amosar etiquetes HTML dende un conxuntu predetermináu",
-    "htmltags-notagname": "Tien qu'afitase l'atributu \"tagname\" pa esta etiqueta.",
-    "htmltags-unsupportedtag": "El nome d'etiqueta \"$1\" nun ye compatible con <htmltag>."
+	"@metadata": {
+		"authors": [
+			"Xuacu"
+		]
+	},
+	"htmltags-desc": "Permite amosar etiquetes HTML dende un conxuntu predetermináu",
+	"htmltags-notagname": "Tien qu'afitase l'atributu \"tagname\" pa esta etiqueta.",
+	"htmltags-unsupportedtag": "El nome d'etiqueta \"$1\" nun ye compatible con <htmltag>."
 }

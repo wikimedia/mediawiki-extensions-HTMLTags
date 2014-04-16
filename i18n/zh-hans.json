@@ -1,10 +1,10 @@
 {
-    "@metadata": {
-        "authors": [
-            "Yfdyh000"
-        ]
-    },
-    "htmltags-desc": "允许显示指定的HTML标签",
-    "htmltags-notagname": "此标签的“tagname”属性必须设置。",
-    "htmltags-unsupportedtag": "<htmltag>不支持标签名“$1”。"
+	"@metadata": {
+		"authors": [
+			"Yfdyh000"
+		]
+	},
+	"htmltags-desc": "允许显示指定的HTML标签",
+	"htmltags-notagname": "此标签的“tagname”属性必须设置。",
+	"htmltags-unsupportedtag": "<htmltag>不支持标签名“$1”。"
 }

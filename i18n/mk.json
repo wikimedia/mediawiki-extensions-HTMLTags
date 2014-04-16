@@ -1,10 +1,10 @@
 {
-    "@metadata": {
-        "authors": [
-            "Bjankuloski06"
-        ]
-    },
-    "htmltags-desc": "Овозможува приказ на HTML-ознаки од предодреден збир",
-    "htmltags-notagname": "За оваа ознака мора да се зададе атрибутот „tagname“.",
-    "htmltags-unsupportedtag": "Ознаката по име „$1“ не е поддржана за <htmltag>."
+	"@metadata": {
+		"authors": [
+			"Bjankuloski06"
+		]
+	},
+	"htmltags-desc": "Овозможува приказ на HTML-ознаки од предодреден збир",
+	"htmltags-notagname": "За оваа ознака мора да се зададе атрибутот „tagname“.",
+	"htmltags-unsupportedtag": "Ознаката по име „$1“ не е поддржана за <htmltag>."
 }

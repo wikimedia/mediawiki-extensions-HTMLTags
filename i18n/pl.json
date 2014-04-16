@@ -1,10 +1,10 @@
 {
-    "@metadata": {
-        "authors": [
-            "Chrumps"
-        ]
-    },
-    "htmltags-desc": "Pozwala na wyświetlanie znaczników HTML ze wstępnie określonego zestaw",
-    "htmltags-notagname": "Atrybut \"tagname\" musi być ustawiony dla danego znacznika.",
-    "htmltags-unsupportedtag": "Znacznik \"$1\" nie jest obsługiwany dla <htmltag>."
+	"@metadata": {
+		"authors": [
+			"Chrumps"
+		]
+	},
+	"htmltags-desc": "Pozwala na wyświetlanie znaczników HTML ze wstępnie określonego zestaw",
+	"htmltags-notagname": "Atrybut \"tagname\" musi być ustawiony dla danego znacznika.",
+	"htmltags-unsupportedtag": "Znacznik \"$1\" nie jest obsługiwany dla <htmltag>."
 }

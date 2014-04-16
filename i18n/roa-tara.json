@@ -1,10 +1,10 @@
 {
-    "@metadata": {
-        "authors": [
-            "Joetaras"
-        ]
-    },
-    "htmltags-desc": "Permette de visualizzà le tag HTML da 'nu 'nzieme pre specificate",
-    "htmltags-notagname": "L'attribbute \"tagname\" adda essere 'mbostate pe stu tag.",
-    "htmltags-unsupportedtag": "'U nome d'u tag \"$1\" non g'è supportate pe <htmltag>."
+	"@metadata": {
+		"authors": [
+			"Joetaras"
+		]
+	},
+	"htmltags-desc": "Permette de visualizzà le tag HTML da 'nu 'nzieme pre specificate",
+	"htmltags-notagname": "L'attribbute \"tagname\" adda essere 'mbostate pe stu tag.",
+	"htmltags-unsupportedtag": "'U nome d'u tag \"$1\" non g'è supportate pe <htmltag>."
 }

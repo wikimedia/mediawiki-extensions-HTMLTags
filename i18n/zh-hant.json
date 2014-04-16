@@ -1,10 +1,10 @@
 {
-    "@metadata": {
-        "authors": [
-            "Justincheng12345"
-        ]
-    },
-    "htmltags-desc": "允許顯示指定的HTML標籤",
-    "htmltags-notagname": "必須設置此標籤的「tagname」屬性。",
-    "htmltags-unsupportedtag": "<htmltag>不支援標籤名稱「$1」。"
+	"@metadata": {
+		"authors": [
+			"Justincheng12345"
+		]
+	},
+	"htmltags-desc": "允許顯示指定的HTML標籤",
+	"htmltags-notagname": "必須設置此標籤的「tagname」屬性。",
+	"htmltags-unsupportedtag": "<htmltag>不支援標籤名稱「$1」。"
 }

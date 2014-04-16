@@ -1,10 +1,10 @@
 {
-    "@metadata": {
-        "authors": [
-            "Armando-Martin"
-        ]
-    },
-    "htmltags-desc": "Permite mostrar etiquetas HTML desde un conjunto preespecificado",
-    "htmltags-notagname": "El atributo \"tagname\" debe establecerse para esta etiqueta.",
-    "htmltags-unsupportedtag": "El nombre de la etiqueta \"$1\" no es compatible con <htmltag>.</htmltag>"
+	"@metadata": {
+		"authors": [
+			"Armando-Martin"
+		]
+	},
+	"htmltags-desc": "Permite mostrar etiquetas HTML desde un conjunto preespecificado",
+	"htmltags-notagname": "El atributo \"tagname\" debe establecerse para esta etiqueta.",
+	"htmltags-unsupportedtag": "El nombre de la etiqueta \"$1\" no es compatible con <htmltag>.</htmltag>"
 }

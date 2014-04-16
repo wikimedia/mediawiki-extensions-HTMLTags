@@ -1,10 +1,10 @@
 {
-    "@metadata": {
-        "authors": [
-            "Beta16"
-        ]
-    },
-    "htmltags-desc": "Permette di visualizzare un insieme per-specificato di tag HTML",
-    "htmltags-notagname": "L'attributo \"tagname\" deve essere impostato per questo tag.",
-    "htmltags-unsupportedtag": "Il tagname \"$1\" non è supportato da <htmltag>."
+	"@metadata": {
+		"authors": [
+			"Beta16"
+		]
+	},
+	"htmltags-desc": "Permette di visualizzare un insieme per-specificato di tag HTML",
+	"htmltags-notagname": "L'attributo \"tagname\" deve essere impostato per questo tag.",
+	"htmltags-unsupportedtag": "Il tagname \"$1\" non è supportato da <htmltag>."
 }
