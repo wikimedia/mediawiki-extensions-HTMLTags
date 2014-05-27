@@ -25,7 +25,7 @@ $wgExtensionCredits['parserhook'][] = array(
 	'path'			=> __FILE__,
 	'name'			=> 'HTML Tags',
 	'author'		=> 'Yaron Koren',
-	'version'		=> '0.2.0',
+	'version'		=> '0.2',
 	'url'			=> 'http://www.mediawiki.org/wiki/Extension:HTML_Tags',
 	'descriptionmsg'	=> 'htmltags-desc',
 );
