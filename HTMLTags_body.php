@@ -46,7 +46,8 @@ class HTMLTags {
 		$attributes = array();
 		foreach ( $args as $key => $value ) {
 			if ( $key == 'tagname' ) { continue; }
-			if ( in_array( $key, $wgHTMLTagsAttributes[$tagName] ) ) {
+			if ( in_array( $key, $wgHTMLTagsAttributes[$tagName] )
+			  || in_array( '*', $wgHTMLTagsAttributes[$tagName] ) ) {
 				$value = $parser->replaceVariables( $value, $frame );
 				// Prevent JS injection into, for instance,
 				// the "href" attribute.
