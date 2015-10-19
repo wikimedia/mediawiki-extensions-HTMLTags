@@ -4,7 +4,7 @@
 			"Siebrand"
 		]
 	},
-	"htmltags-desc": "Maakt het mogelijk om HTML-tags weer te geven van een vooraf gespecificeerde set",
-	"htmltags-notagname": "Het attribuut \"tagname\" moet opgegeven worden voor deze tag.",
+	"htmltags-desc": "Maakt het mogelijk om HTML-labels weer te geven van een vooraf gespecificeerde set",
+	"htmltags-notagname": "Het attribuut \"tagname\" moet opgegeven worden voor dit label.",
 	"htmltags-unsupportedtag": "De tagnaam \"$1\" wordt niet ondersteund voor <htmltag>."
 }
