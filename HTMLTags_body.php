@@ -50,7 +50,14 @@ class HTMLTags {
 				$value = $parser->replaceVariables( $value, $frame );
 				// Prevent JS injection into, for instance,
 				// the "href" attribute.
-				$attributes[$key] = htmlspecialchars( $value, ENT_QUOTES );
+				$value = htmlspecialchars( $value, ENT_QUOTES );
+
+				// Undo the escaping of '&', since it's used
+				// frequently in URLs. (Hopefully this isn't
+				// by itself unsafe.)
+				$value = str_replace( '&amp;', '&', $value );
+
+				$attributes[$key] = $value;
 			}
 		}
 
