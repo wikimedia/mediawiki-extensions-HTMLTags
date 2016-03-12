@@ -26,19 +26,17 @@ $wgExtensionCredits['parserhook'][] = array(
 	'name'			=> 'HTML Tags',
 	'author'		=> 'Yaron Koren',
 	'version'		=> '0.2',
-	'url'			=> 'http://www.mediawiki.org/wiki/Extension:HTML_Tags',
+	'url'			=> 'https://www.mediawiki.org/wiki/Extension:HTML_Tags',
 	'descriptionmsg'	=> 'htmltags-desc',
+	'license-name'		=> 'GPL-2.0+'
 );
-
-// Shortcut to this extension directory
-$wgHTMLTagsDir = dirname( __FILE__ ) . '/';
 
 // Internationalization
 $wgMessagesDirs['HTMLTags'] = __DIR__ . '/i18n';
-$wgExtensionMessagesFiles['HTMLTags'] = $wgHTMLTagsDir . 'HTMLTags.i18n.php';
+$wgExtensionMessagesFiles['HTMLTags'] = __DIR__ . '/HTMLTags.i18n.php';
 
 // Register classes
-$wgAutoloadClasses['HTMLTags'] = $wgHTMLTagsDir . 'HTMLTags_body.php';
+$wgAutoloadClasses['HTMLTags'] = __DIR__ . '/HTMLTags_body.php';
 
 // Register parser hook
 $wgHooks['ParserFirstCallInit'][] = 'HTMLTags::register';
