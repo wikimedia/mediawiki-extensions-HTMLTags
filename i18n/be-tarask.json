@@ -5,5 +5,6 @@
 		]
 	},
 	"htmltags-desc": "Дазваляе паказваць HTML-тэгі з папярэдне вызначанага набору",
-	"htmltags-notagname": "Атрыбут «tagname» мусіць быць вызначаны для гэтага тэгу."
+	"htmltags-notagname": "Атрыбут «tagname» мусіць быць вызначаны для гэтага тэгу.",
+	"htmltags-unsupportedtag": "Назва тэгу «$1» не падтрымліваецца для <htmltag>."
 }
