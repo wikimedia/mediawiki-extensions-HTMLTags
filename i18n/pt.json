@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Hamilton Abreu"
+		]
+	},
+	"htmltags-desc": "Permite a apresentação de elementos HTML, de entre um conjunto pré-determinado",
+	"htmltags-notagname": "O atributo \"tagname\" tem de ser definido para este elemento.",
+	"htmltags-unsupportedtag": "O nome do elemento \"$1\" não é suportado por <htmltag>."
+}
