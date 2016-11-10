@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Giromin Cangiaxo"
+		]
+	},
+	"htmltags-desc": "O permette de vixualizâ un insemme pre-specificou de tag HTML",
+	"htmltags-notagname": "L'attributo \"tagname\" o dev'ese impostou pe questo tag.",
+	"htmltags-unsupportedtag": "O tagname \"$1\" o no l'è supportou da <htmltag>."
+}
