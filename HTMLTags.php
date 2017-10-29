@@ -33,7 +33,6 @@ $wgExtensionCredits['parserhook'][] = array(
 
 // Internationalization
 $wgMessagesDirs['HTMLTags'] = __DIR__ . '/i18n';
-$wgExtensionMessagesFiles['HTMLTags'] = __DIR__ . '/HTMLTags.i18n.php';
 
 // Register classes
 $wgAutoloadClasses['HTMLTags'] = __DIR__ . '/HTMLTags_body.php';
