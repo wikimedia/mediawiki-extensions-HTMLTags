@@ -28,7 +28,7 @@ $wgExtensionCredits['parserhook'][] = array(
 	'version'		=> '0.2',
 	'url'			=> 'https://www.mediawiki.org/wiki/Extension:HTML_Tags',
 	'descriptionmsg'	=> 'htmltags-desc',
-	'license-name'		=> 'GPL-2.0+'
+	'license-name'		=> 'GPL-2.0-or-later'
 );
 
 // Internationalization
