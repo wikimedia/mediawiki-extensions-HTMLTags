@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ooswesthoesbes"
+		]
+	},
+	"htmltags-desc": "Maak 't meugelik HTML-labels te tuine van 'ne veuraaf aangegaove lies",
+	"htmltags-notagname": "'t Biebeheurde \"tagname\" mót veur dit label waere gezatte.",
+	"htmltags-unsupportedtag": "De labelnaam \"$1\" weurt neet óngerstäönd veur <htmltag>."
+}
