@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Asierog"
+		]
+	},
+	"htmltags-notagname": "\"Tagname\" atributua ezarri behar da etiketa honentzako.",
+	"htmltags-unsupportedtag": "<htmltag>-ek ez du \"$1\" etiketa izena jasaten."
+}
