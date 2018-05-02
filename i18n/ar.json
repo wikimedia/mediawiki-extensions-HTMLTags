@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"ديفيد"
+		]
+	},
+	"htmltags-desc": "يسمح بعرض وسوم HTML من مجموعة محددة مسبقا",
+	"htmltags-notagname": "يجب تعيين سمة \"tagname\" لهذا الوسم.",
+	"htmltags-unsupportedtag": "اسم الوسم \"$1\" غير مدعوم لـ<htmltag>."
+}
