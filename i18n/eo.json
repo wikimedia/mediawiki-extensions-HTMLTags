@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mirin"
+		]
+	},
+	"htmltags-desc": "Ebligas montron de antaŭspecifita aro de HTML-etikedoj",
+	"htmltags-notagname": "La atributo \"tagname\" devas esti donita por tiu etikedo.",
+	"htmltags-unsupportedtag": "La etikeda nomo \"$1\" ne estas subtenata en <htmltag>."
+}
