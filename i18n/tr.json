@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"BaRaN6161 TURK"
+		]
+	},
+	"htmltags-desc": "Önceden belirlenmiş bir kümeden HTML etiketlerinin görüntülenmesine izin verir",
+	"htmltags-notagname": "Bu etiket için \"tagname\" özniteliği ayarlanmalıdır.",
+	"htmltags-unsupportedtag": "\"$1\" etiket adı <htmltag> için desteklenmiyor."
+}
