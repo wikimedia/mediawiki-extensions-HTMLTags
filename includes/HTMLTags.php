@@ -14,7 +14,7 @@ class HTMLTags {
 	 */
 	public static function register( &$parser ) {
 		// Register the hook with the parser
-		$parser->setHook( 'htmltag', array( 'HTMLTags', 'render' ) );
+		$parser->setHook( 'htmltag', [ 'HTMLTags', 'render' ] );
 		// Continue
 		return true;
 	}
@@ -43,7 +43,7 @@ class HTMLTags {
 
 		$input = $parser->replaceVariables( $input, $frame );
 
-		$attributes = array();
+		$attributes = [];
 		foreach ( $args as $key => $value ) {
 			if ( $key == 'tagname' ) { continue; }
 			if ( in_array( $key, $wgHTMLTagsAttributes[$tagName] ) ) {
