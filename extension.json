@@ -1,0 +1,29 @@
+{
+	"name": "HTML Tags",
+	"version": "0.3",
+	"author": "Yaron Koren",
+	"url": "https://www.mediawiki.org/wiki/Extension:HTML_Tags",
+	"descriptionmsg": "htmltags-desc",
+	"license-name": "GPL-2.0-or-later",
+	"type": "parserhook",
+	"requires": {
+		"MediaWiki": ">= 1.29.0"
+	},
+	"MessagesDirs": {
+		"HTMLTags": [
+			"i18n"
+		]
+	},
+	"AutoloadClasses": {
+		"HTMLTags": "includes/HTMLTags.php"
+	},
+	"Hooks": {
+		"ParserFirstCallInit": "HTMLTags::register"
+	},
+	"config": {
+		"HTMLTagsAttributes": {
+			"value": []
+		}
+	},
+	"manifest_version": 2
+}
