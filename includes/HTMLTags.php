@@ -9,23 +9,19 @@
 class HTMLTags {
 
 	/**
-	 * @param $parser Parser
-	 * @return bool
+	 * @param Parser $parser
 	 */
-	public static function register( &$parser ) {
-		// Register the hook with the parser
-		$parser->setHook( 'htmltag', [ 'HTMLTags', 'render' ] );
-		// Continue
-		return true;
+	public static function register( $parser ) {
+		$parser->setHook( 'htmltag', [ __CLASS__, 'render' ] );
 	}
 
 	/**
 	 * Handle the <htmltag> tag.
 	 *
-	 * @param $input string
-	 * @param $args array
-	 * @param $parser Parser
-	 * @param $frame PPFrame
+	 * @param string $input
+	 * @param string[] $args
+	 * @param Parser $parser
+	 * @param PPFrame $frame
 	 * @return string
 	 */
 	public static function render( $input, $args, $parser, $frame ) {
@@ -45,7 +41,10 @@ class HTMLTags {
 
 		$attributes = [];
 		foreach ( $args as $key => $value ) {
-			if ( $key == 'tagname' ) { continue; }
+			if ( $key === 'tagname' ) {
+				continue;
+			}
+
 			if ( in_array( $key, $wgHTMLTagsAttributes[$tagName] ) ) {
 				$value = $parser->replaceVariables( $value, $frame );
 				// Prevent JS injection into, for instance,

@@ -7,7 +7,8 @@ if ( function_exists( 'wfLoadExtension' ) ) {
 	wfWarn(
 		'Deprecated PHP entry point used for the HTMLTags extension. ' .
 		'Please use wfLoadExtension() instead, ' .
-		'see https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Extension_registration for more details.'
+		'see https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Extension_registration for ' .
+		'more details.'
 	);
 	return;
 } else {
