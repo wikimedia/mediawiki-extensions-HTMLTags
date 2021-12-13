@@ -1,10 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Base"
+			"Base",
+			"DDPAT"
 		]
 	},
-	"htmltags-desc": "Дозволяє відображати HTML-теґи із попердньо-визначеного набору",
-	"htmltags-notagname": "Атрибут «tagname» повинен бути вказаним для цього теґу.",
+	"htmltags-desc": "Дозволяє відображати HTML-теги із попердньо-визначеного набору",
+	"htmltags-notagname": "Атрибут «tagname» повинен бути вказаним для цього тегу.",
 	"htmltags-unsupportedtag": "Ім'я теґу «$1» не підтримується для <htmltag>."
 }

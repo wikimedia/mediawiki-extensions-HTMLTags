@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Daud I.F. Argana"
+		]
+	},
+	"htmltags-desc": "Memungkinkan menampilkan tag HTML dari kumpulan tag yang telah ditentukan",
+	"htmltags-notagname": "Atribut \"tagname\" harus ditetapkan untuk tag ini.",
+	"htmltags-unsupportedtag": "Nama tag \"$1\" tidak didukung untuk <htmltag>."
+}
