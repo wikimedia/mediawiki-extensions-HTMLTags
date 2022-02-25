@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Base",
-			"DDPAT"
+			"DDPAT",
+			"Ice bulldog"
 		]
 	},
 	"htmltags-desc": "Дозволяє відображати HTML-теги із попердньо-визначеного набору",
