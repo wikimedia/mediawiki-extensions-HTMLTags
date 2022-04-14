@@ -1,4 +1,5 @@
 {
+	"name": "HTMLTags",
 	"private": true,
 	"scripts": {
 		"test": "grunt test"
