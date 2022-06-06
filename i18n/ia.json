@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"McDutchie"
+		]
+	},
+	"htmltags-desc": "Permitte visualisar etiquettas HTML a partir de un insimul pre-specificate",
+	"htmltags-notagname": "Le attributo \"tagname\" debe esser definite pro iste etiquetta.",
+	"htmltags-unsupportedtag": "Le nomine de etiquetta \"$1\" non es supportate pro <htmltag>."
+}
