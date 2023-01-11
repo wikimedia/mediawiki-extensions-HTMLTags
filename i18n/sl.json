@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Eleassar"
+		]
+	},
+	"htmltags-desc": "Omogoča prikaz HTML-značk iz vnaprej določenega nabora",
+	"htmltags-notagname": "Za to značko mora biti določen atribut »tagname«.",
+	"htmltags-unsupportedtag": "Ime značke »$1« ni podprto za <htmltag>."
+}
