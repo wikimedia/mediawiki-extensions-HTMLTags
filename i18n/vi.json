@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ioe2015"
+		]
+	},
+	"htmltags-desc": "Cho phép hiển thị các thẻ HTML từ một tập hợp các thẻ được định sẵn.",
+	"htmltags-notagname": "Thẻ này phải có thuộc tính \"tagname\".",
+	"htmltags-unsupportedtag": "<htmltag> không hỗ trợ tên thẻ \"$1\"."
+}
