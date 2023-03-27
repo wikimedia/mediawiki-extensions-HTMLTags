@@ -3,10 +3,11 @@
 		"authors": [
 			"Crochet.david",
 			"Gomoko",
-			"Thibaut120094"
+			"Thibaut120094",
+			"Verdy p"
 		]
 	},
-	"htmltags-desc": "Permet l'affichage de balises HTML depuis un ensemble prédéterminé",
-	"htmltags-notagname": "L’attribut « tagname » doit être positionné pour cette balise.",
-	"htmltags-unsupportedtag": "Le nom de la balise « $1 » n’est pas pris en charge pour <htmltag>."
+	"htmltags-desc": "Permet l’affichage de balises HTML depuis un ensemble prédéterminé",
+	"htmltags-notagname": "L’attribut « tagname » doit être positionné pour cette balise.",
+	"htmltags-unsupportedtag": "Le nom de la balise « $1 » n’est pas pris en charge pour <htmltag>."
 }
