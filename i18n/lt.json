@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Nokeoo"
+		]
+	},
+	"htmltags-desc": "Leidžia rodyti HTML žymas iš iš anksto nustatyto rinkinio",
+	"htmltags-notagname": "Šiai žymai turi būti nustatytas atributas „tagname“.",
+	"htmltags-unsupportedtag": "Žymos pavadinimas „$1“ <htmltag> nepalaikomas."
+}
