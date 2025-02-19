@@ -28,7 +28,7 @@ class HTMLTags {
 		global $wgHTMLTagsAttributes;
 
 		if ( !array_key_exists( 'tagname', $args ) ) {
-			return wfMessage( 'htmltags-notagname' )->text();
+			return wfMessage( 'htmltags-notagname' )->escaped();
 		}
 
 		$tagName = $args['tagname'];
