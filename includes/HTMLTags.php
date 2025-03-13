@@ -62,7 +62,13 @@ class HTMLTags {
 
 		// The use of Html::element() should prevent any further attempt
 		// at JavaScript injection.
-		return Html::element( $tagName, $attributes, $input );
+		if ( class_exists( 'MediaWiki\Html\Html' ) ) {
+			// MW 1.40+
+			$htmlClass = 'MediaWiki\Html\Html';
+		} else {
+			$htmlClass = 'Html';
+		}
+		return $htmlClass::element( $tagName, $attributes, $input );
 	}
 
 }
