@@ -1,10 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Daud I.F. Argana"
+			"Daud I.F. Argana",
+			"Penyuwangi"
 		]
 	},
-	"htmltags-desc": "Memungkinkan menampilkan tag HTML dari kumpulan tag yang telah ditentukan",
-	"htmltags-notagname": "Atribut \"tagname\" harus ditetapkan untuk tag ini.",
-	"htmltags-unsupportedtag": "Nama tag \"$1\" tidak didukung untuk <htmltag>."
+	"htmltags-desc": "Memungkinkan menampilkan tanda HTML dari kumpulan tanda yang telah ditentukan",
+	"htmltags-notagname": "Atribut \"tagname\" harus ditetapkan untuk tanda ini.",
+	"htmltags-unsupportedtag": "Nama tanda \"$1\" tidak didukung untuk <htmltag>."
 }
