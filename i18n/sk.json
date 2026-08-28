@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Wizzard"
+		]
+	},
+	"htmltags-desc": "Umožňuje zobrazovať HTML značky z vopred určenej množiny",
+	"htmltags-notagname": "Pre túto značku musí byť nastavený atribút „tagname“.",
+	"htmltags-unsupportedtag": "Názov značky „$1“ nie je pre <htmltag> podporovaný."
+}
