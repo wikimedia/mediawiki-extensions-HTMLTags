@@ -6,6 +6,8 @@
  * @ingroup HTML Tags
  */
 
+use MediaWiki\Html\Html;
+
 class HTMLTags {
 
 	/**
@@ -62,13 +64,7 @@ class HTMLTags {
 
 		// The use of Html::element() should prevent any further attempt
 		// at JavaScript injection.
-		if ( class_exists( 'MediaWiki\Html\Html' ) ) {
-			// MW 1.40+
-			$htmlClass = 'MediaWiki\Html\Html';
-		} else {
-			$htmlClass = 'Html';
-		}
-		return $htmlClass::element( $tagName, $attributes, $input );
+		return Html::element( $tagName, $attributes, $input );
 	}
 
 }
